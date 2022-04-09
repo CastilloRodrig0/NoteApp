@@ -53,6 +53,7 @@ namespace NotesApp
             this.btnNew.TabIndex = 0;
             this.btnNew.Text = "New";
             this.btnNew.UseVisualStyleBackColor = true;
+            this.btnNew.Click += new System.EventHandler(this.btnNew_Click);
             // 
             // btnAdd
             // 
@@ -82,6 +83,7 @@ namespace NotesApp
             this.btnDelete.TabIndex = 3;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // label1
             // 
@@ -168,7 +170,6 @@ namespace NotesApp
         }
 
         #endregion
-
         private System.Windows.Forms.Button btnNew;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnRead;

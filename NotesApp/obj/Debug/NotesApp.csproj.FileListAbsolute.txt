@@ -8,3 +8,13 @@ C:\Users\rcastillo\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.Gene
 C:\Users\rcastillo\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
 C:\Users\rcastillo\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.exe
 C:\Users\rcastillo\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.Form1.resources
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\Usuario\Desktop\repositorios\NoteApp\NotesApp\obj\Debug\NotesApp.pdb
